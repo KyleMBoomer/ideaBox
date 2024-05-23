@@ -15,7 +15,7 @@ Visit this [repo](https://github.com/sanghoro/ideaBox-groupProject) to access th
 Fork and clone down the repo to your machine, and open the index.html file to save all your best ideas. 
 
 ## Demo 
-Click [here[(https://kylemboomer.github.io/ideaBox/) to start saving your own ideas. 
+Click [here](https://kylemboomer.github.io/ideaBox/) to start saving your own ideas. 
 ### Usage 
 <img width="1358" alt="Screenshot 2024-04-12 at 4 55 59 PM" src="https://github.com/sanghoro/ideaBox-groupProject/assets/156006806/6dcf2c38-e83a-4390-ab2f-4be7c59dfa10">
 
